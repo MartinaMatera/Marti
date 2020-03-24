@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF8" standalone="yes" ?>
+<!-- PROLOGO
+    DICHIARAZIONE XML 
+    TYPE DOCUMENT DECLARATION
+-->
+<TEST>
+    documenti di testi XML
+    <figlio n="attributo">
+        <nipote>
+         contenuto dell'elemento nipote
+        </nipote>
+    </figlio>
+    <figlio n="2">
+        <nipote>
+            <pronipote> </pronipote>
+        </nipote>
+    </figlio>
+</TEST>
+
+<!-- CORPO
+    CONTENUTO XML VERO E PROPRIO 
+ -->
+<!-- EPILOGO
+    COMMENTO
+ -->
