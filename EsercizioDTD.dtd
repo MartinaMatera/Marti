@@ -1,0 +1,5 @@
+<<!-- esercizio DTD, Martina Matera, matricola 560649-->
+<!ELEMENT TEI (header, facsimile*, text+)>
+<!ELEMENT header (#PCDATA)>
+<!ELEMENT facsimile (#PCDATA)>
+<!ELEMENT text (#PCDATA)>
